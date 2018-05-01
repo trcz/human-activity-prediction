@@ -8,7 +8,7 @@ All data comes normalized in range [-1; 1]
 **Instructions:**  
 - download and extract dataset  
 - place Test and Train in script directory  
-- run activityNB.py  
+- run activity_prediction.py  
 
 I've used GaussianNB model and achieved 74.73% precision. Considering the fact GaussianNB supports multiclass problems I'm pretty disappointed with its accuracy. Repeatable features could be the problem.  
 
