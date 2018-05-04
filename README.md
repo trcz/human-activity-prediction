@@ -1,5 +1,5 @@
 # human-activity-prediction
-Multi-class prediction problm based on Human Activity Record from smartphones
+Multi-class prediction problem based on Human Activity Record from smartphones
 
 **Dataset source:** http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions  
 Dataset comes in preprocessed form, ready for importing  
